@@ -7,5 +7,5 @@ MIT © [sammai]()
 
 see preview at 
 
-http://smarte-sonic.netlify.app
+https://smarte-sonic.netlify.app
 
