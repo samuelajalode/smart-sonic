@@ -1,0 +1,9 @@
+{
+  "name": "smartesonic",
+  "version": "1.0.0",
+  "description": "A simple html template to shop smart with.",
+  "main": "index.js",
+  "repository": "https://github.com/samuelajalode/smart-sonic.git",
+  "author": "YF",
+  "license": "MIT"
+}
